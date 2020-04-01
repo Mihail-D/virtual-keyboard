@@ -1,0 +1,38 @@
+{
+  "name": "mikhail",
+  "description": "virtual-keyboard project",
+  "version": "1.0",
+  "keywords": [
+    "virtual-keyboard "
+  ],
+  "contributors": [
+    {
+      "name": "Mikhail",
+      "email": "",
+      "web": ""
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Mikhail",
+      "email": "",
+      "web": ""
+    }
+  ],
+  "bugs": {
+    "web": "https://github.com/Mihail-D/virtual-keyboard"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/Mihail-D/virtual-keyboard"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "homepage": "https://github.com/Mihail-D/virtual-keyboard"
+}
